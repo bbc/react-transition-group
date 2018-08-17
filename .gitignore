@@ -1,4 +1,7 @@
-/lib
+##########
+# - Allow lib to be comitted so we can npm install a github tag with the transpiled src files included
+#/lib
+##########
 
 # Logs
 logs
