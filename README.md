@@ -1,5 +1,9 @@
 # react-transition-group
 
+*************
+This has been forked to allow for the lib directory to be committed so we can npm install it as a git url.
+*************
+
 A fork, and "drop in" replacement for the original React TransitionGroup addons. Eventually this package can supercede the original addon, letting the React team focus on other stuff and giving these components a chance to get the attention they deserve out on their own. See: https://github.com/facebook/react/issues/8125 for more context.
 
 A ton of thanks to the React team, and contributors for writing and maintaining these components for so long!
