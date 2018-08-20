@@ -4,6 +4,8 @@
 
 v1.1.1 was found to be the best candidate for altering to support the older version of React, as later versions carry a PropType warning.
 
+The branch `morph-compat-c/1.1.1` contains the modifications. This was then built (`npm run build`) and the lib directory pushed removed from the `.gitignore` and then tagged as `v1.1.1-custom`.
+
 > **ATTENTION!** To address many issues that have come up over the years, the API in v2 is not backwards compatible with the original [`React addon (v1-stable)`](https://github.com/reactjs/react-transition-group/tree/v1-stable).
 >
 > **For a drop-in replacement for `react-addons-transition-group` and `react-addons-css-transition-group`, use the v1 release. Documentation and code for that release are available on the [`v1-stable`](https://github.com/reactjs/react-transition-group/tree/v1-stable) branch.**
